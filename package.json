@@ -1,0 +1,28 @@
+{
+  "name": "rest-api-express",
+  "version": "1.0.0",
+  "description": "Node.js & express",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "./node_modules/.bin/nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanIlic89/rest-api-express.git"
+  },
+  "keywords": [],
+  "author": "Dejan Ilic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DejanIlic89/rest-api-express/issues"
+  },
+  "homepage": "https://github.com/DejanIlic89/rest-api-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
